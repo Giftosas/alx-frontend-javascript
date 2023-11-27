@@ -4,4 +4,4 @@ export default function iterateThroughObject(reportWithIterator) {
     result += `${item} | `;
   }
   return result.slice(0, -3);
-}clearScreenDown
+}
